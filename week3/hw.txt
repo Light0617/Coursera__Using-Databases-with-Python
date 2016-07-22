@@ -16,7 +16,7 @@ Make a table that maps the strings in the column to numbers and then use those n
 
 5. 
 Which of the following is the label we give a column that the "outside world" uses to look up a particular row?
-Local key(X)
+logical key
 
 6. 
 What is the label we give to a column that is an integer and used to point to a row in a different table?
