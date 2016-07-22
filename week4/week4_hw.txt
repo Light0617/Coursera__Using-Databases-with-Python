@@ -51,6 +51,11 @@ course_id = cur.fetchone()[0]
 
 unique!
 
+10.What do we avoid in many-to-many table?
+
+logical key
+increment primary key
+
 
 
 
